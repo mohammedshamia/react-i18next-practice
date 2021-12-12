@@ -1,0 +1,20 @@
+{
+  "en": {
+    "translation": {
+      "Gaza":"غزة",
+      "Hebro":"الخليل",
+      "Jeruslem":"القدس",
+      "Jaffa":"يافا",
+      "language":"EN"
+    }
+  },
+  "ar": {
+    "translation": {
+      "Gaza":"Gaza",
+      "Hebro":"Hebro",
+      "Jeruslem":"Jeruslem",
+      "Jaffa":"Jaffa",
+      "language":"AR"
+    }
+  }
+}
